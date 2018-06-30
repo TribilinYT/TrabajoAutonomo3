@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Trabajo autonomo 3 SQLite</string>
+    <string name="action_update_list">Update list</string>
+    <string name="action_insert_list">insert</string>
+    <string name="action_delete_list">delete</string>
+    <string name="action_delete_all_list">Delete All</string>
+
+
+</resources>
